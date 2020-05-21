@@ -4,7 +4,7 @@
       <span class="d-block d-lg-none">Suryansh Sharma</span>
       <span class="d-none d-lg-block">
         <g-image
-          alt="Image of Loke"
+          alt="Image of Suryansh"
           src="../assets/images/profile.jpg"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
         />
